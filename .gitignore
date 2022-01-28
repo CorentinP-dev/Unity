@@ -6,13 +6,13 @@
 # OS X
 ############################
 
-.DS_Store
-.AppleDouble
-.LSOverride
+*.DS_Store
+*.AppleDouble
+*.LSOverride
 Icon
-.Spotlight-V100
-.Trashes
-._*
+*.Spotlight-V100
+*.Trashes
+*._*
 
 #
 /[Ll]ibrary/
